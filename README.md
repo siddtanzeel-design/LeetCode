@@ -1,22 +1,32 @@
-# LeetCode Solutions
+# LeetCode Solutions 🧩
 
-My solutions to LeetCode problems while practicing **Data Structures & Algorithms**.
+A collection of my **LeetCode solutions** while learning and practicing Data Structures & Algorithms.
 
-## Topics
+## 📊 Progress
 
-* Arrays
-* Strings
+| Metric             |         Progress |
+| ------------------ | ---------------: |
+| 🧩 Problems Solved |           **42** |
+| 🟢 Easy            |           **26** |
+| 🟡 Medium          |           **15** |
+| 🔴 Hard            |            **1** |
+| 🧠 Languages       | **Python · C++** |
+
+## 📚 Topics
+
+* Arrays & Strings
+* Hashing
 * Linked Lists
 * Stack & Queue
 * Binary Trees
-* Recursion
-* Backtracking
+* Recursion & Backtracking
 * Sorting
 * Dynamic Programming
 
-## Languages
+## 🎯 Focus
 
-* Python
-* C++
+Improving **problem-solving, implementation, and understanding of DSA patterns** through consistent practice.
 
-> Learning DSA one problem at a time.
+---
+
+> *Solve. Understand. Improve.*
