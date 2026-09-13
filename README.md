@@ -6,10 +6,10 @@ A collection of my **LeetCode solutions** while learning and practicing Data Str
 
 | Metric             |         Progress |
 | ------------------ | ---------------: |
-| 🧩 Problems Solved |           **42** |
+| 🧩 Problems Solved |           **43** |
 | 🟢 Easy            |           **26** |
 | 🟡 Medium          |           **15** |
-| 🔴 Hard            |            **1** |
+| 🔴 Hard            |            **2** |
 | 🧠 Languages       | **Python · C++** |
 
 ## 📚 Topics
