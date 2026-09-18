@@ -11,22 +11,3 @@ A collection of my **LeetCode solutions** while learning and practicing Data Str
 | 🟡 Medium          |           **17** |
 | 🔴 Hard            |            **2** |
 | 🧠 Languages       | **Python · C++** |
-
-## 📚 Topics
-
-* Arrays & Strings
-* Hashing
-* Linked Lists
-* Stack & Queue
-* Binary Trees
-* Recursion & Backtracking
-* Sorting
-* Dynamic Programming
-
-## 🎯 Focus
-
-Improving **problem-solving, implementation, and understanding of DSA patterns** through consistent practice.
-
----
-
-> *Solve. Understand. Improve.*
