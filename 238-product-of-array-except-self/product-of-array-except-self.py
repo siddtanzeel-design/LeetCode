@@ -9,6 +9,7 @@ class Solution:
             product *= nums[i]
 
             #[1,1,2,6]
+        
         product = 1
         for i in range(n-1, -1, -1):
             result[i] *= product
