@@ -6,8 +6,8 @@ A collection of my **LeetCode solutions** while learning and practicing Data Str
 
 | Metric             |         Progress |
 | ------------------ | ---------------: |
-| 🧩 Problems Solved |           **80** |
-| 🟢 Easy            |           **41** |
-| 🟡 Medium          |           **34** |
+| 🧩 Problems Solved |           **84** |
+| 🟢 Easy            |           **42** |
+| 🟡 Medium          |           **37** |
 | 🔴 Hard            |            **5** |
 | 🧠 Languages       | **Python · C++** |
