@@ -8,6 +8,6 @@ A collection of my **LeetCode solutions** while learning and practicing Data Str
 | ------------------ | ---------------: |
 | 🧩 Problems Solved |           **84** |
 | 🟢 Easy            |           **42** |
-| 🟡 Medium          |           **37** |
-| 🔴 Hard            |            **5** |
+| 🟡 Medium          |           **38** |
+| 🔴 Hard            |            **6** |
 | 🧠 Languages       | **Python · C++** |
