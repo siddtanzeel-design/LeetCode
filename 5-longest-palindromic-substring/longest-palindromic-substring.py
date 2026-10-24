@@ -1,14 +1,25 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        if len(s) <= 1:
-            return s
-        
-        Max_Len=1
-        Max_Str=s[0]
-        for i in range(len(s)-1):
-            for j in range(i+1,len(s)):
-                if j-i+1 > Max_Len and s[i:j+1] == s[i:j+1][::-1]:
-                    Max_Len = j-i+1
-                    Max_Str = s[i:j+1]
+        n = len(s)
+        res = ""
 
-        return Max_Str
+        for i in range(n):
+            # Odd length palindrome
+            st = end = i
+            while st >= 0 and end < n and s[st] == s[end]:
+                st -= 1
+                end += 1
+            temp = s[st+1:end]
+            if len(temp) > len(res):
+                res = temp
+
+            # Even length palindrome
+            st, end = i, i+1
+            while st >= 0 and end < n and s[st] == s[end]:
+                st -= 1
+                end += 1
+            temp = s[st+1:end]
+            if len(temp) > len(res):
+                res = temp
+
+        return res
