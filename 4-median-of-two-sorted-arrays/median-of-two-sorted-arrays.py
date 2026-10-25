@@ -5,6 +5,8 @@ class Solution:
 
         n = len(merged)
         if n%2 == 0:
-            return (merged[n//2 - 1] + merged[n//2])/2
+            med = (merged[n//2 - 1] + merged[n//2])/2
         else:
-            return merged[n//2]
+            med = merged[n//2]
+
+        return med
