@@ -17,3 +17,6 @@ A collection of my **LeetCode solutions** while learning and practicing Data Str
 <p align="left">
   <img src="50daysBadge.png" width="120" alt="LeetCode 50 Days Badge">
 </p>
+
+## 📊 Progress
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SiddTanzeel?theme=light&font=baloo)](https://leetcode.com/u/SiddTanzeel/)
