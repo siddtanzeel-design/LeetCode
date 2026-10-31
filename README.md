@@ -19,4 +19,4 @@ A collection of my **LeetCode solutions** while learning and practicing Data Str
 </p>
 
 ## 📊 Progress
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SiddTanzeel?theme=light&font=baloo)](https://leetcode.com/u/SiddTanzeel/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SiddTanzeel?theme=dracula)](https://leetcode.com/u/SiddTanzeel/)
