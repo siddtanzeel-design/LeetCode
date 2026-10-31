@@ -3,7 +3,7 @@
 A collection of my **LeetCode solutions** while learning and practicing Data Structures & Algorithms.
 
 ## 📊 Progress
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SiddTanzeel?theme=dark&font=baloo)](https://leetcode.com/u/SiddTanzeel/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SiddTanzeel?theme=nord&font=baloo)](https://leetcode.com/u/SiddTanzeel/)
 
 ## 🏆 LeetCode Badges
 
