@@ -10,3 +10,9 @@ A collection of my **LeetCode solutions** while learning and practicing Data Str
 <p align="left">
   <img src="50daysBadge.png" width="120" alt="LeetCode 50 Days Badge">
 </p>
+
+## 📅 LeetCode Activity
+
+<p align="center">
+  <img src="https://leetcode-calander-svg.vercel.app/SiddTanzeel" width="100%" alt="LeetCode Submission Heatmap"/>
+</p>
