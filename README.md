@@ -1,19 +1,9 @@
-# LeetCode Solutions 🧩
-
-A collection of my **LeetCode solutions** while learning and practicing Data Structures & Algorithms.
-
-## 📊 Progress
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SiddTanzeel?theme=dark&font=baloo)](https://leetcode.com/u/SiddTanzeel/)
-
-## 📅 LeetCode Activity
+## 🧩 LeetCode Dashboard
 
 <p align="center">
-  <img src="https://leetcode-calander-svg.vercel.app/SiddTanzeel" width="100%" alt="LeetCode Submission Heatmap"/>
-</p>
-
-
-## 🏆 LeetCode Badges
-
-<p align="left">
-  <img src="50daysBadge.png" width="120" alt="LeetCode 50 Days Badge">
+  <img
+    src="https://github-readme-leetcode-stats.vercel.app/api/card?username=SiddTanzeel&theme=dracula&sections=profile,solved,streak,skills,languages,heatmap"
+    alt="LeetCode Dashboard"
+    width="100%"
+  />
 </p>
